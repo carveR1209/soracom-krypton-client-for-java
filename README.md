@@ -33,7 +33,8 @@ After running this command, you can import this project to your IDE.
 
 Also you can generate application zip archive with following command.
 
-```sh
+```
+
 ./gradlew dist
 ```
 
