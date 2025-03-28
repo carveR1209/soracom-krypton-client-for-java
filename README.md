@@ -1,4 +1,4 @@
-# soracom-krypton-client-for-java
+ # soracom-krypton-client-for-java
 Java based client library for SORACOM Krypton 
 
 ## Installing pre-built binary
